@@ -1,9 +1,9 @@
 # SimuladorAFND
 
-Academicos
-  Bruno H. Peron
-  Daniel G. Bruch
-  Junior M. A. Camargo
+Academicos\r\n
+  Bruno H. Peron\r\n
+  Daniel G. Bruch\r\n
+  Junior M. A. Camargo\r\n
   
   
 # EXEMPLO
