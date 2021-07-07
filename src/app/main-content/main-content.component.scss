@@ -1,0 +1,29 @@
+.app-fill-remaining-space {
+    /* This fills the remaining space, by using flexbox.
+       Every toolbar row uses a flexbox row layout. */
+    flex: 1 1 auto;
+
+    .btn {
+        margin: 10px;
+    }
+}
+
+.step {
+    
+    width: 75px !important;
+    height: 75px !important;
+    border-radius: 50%;
+    border: 1px solid #000;
+    font-size: 19px;
+    text-align: center;
+    padding: 20px !important;
+}
+.step-final {
+    width: 75px !important;
+    height: 75px !important;
+    border-radius: 50%;
+    border-style: double;
+    font-size: 19px;
+    text-align: center;
+    padding: 20px !important;
+}
